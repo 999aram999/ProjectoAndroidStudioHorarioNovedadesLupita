@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="changed_to">Notificacion cambiada a las %</string>
+</resources>
